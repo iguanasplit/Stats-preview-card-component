@@ -37,7 +37,6 @@ body {
     align-items: center;
 
     background-size: 100% auto;
-    background-color: var(--);
     background:
     var(--Very-dark-blue-background);
 
@@ -71,6 +70,7 @@ img {
     opacity: 1;
     background-color: var(--Soft-violet);
 }
+
 /*TEXT FORMAT_____________________________________________________________________________*/
 /*TEXT FORMAT_____________________________________________________________________________*/
 
